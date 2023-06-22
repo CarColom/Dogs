@@ -1,0 +1,99 @@
+
+.buttoncreate {
+  padding: 8px 16px;
+  font-size: 18px;
+  border: none;
+  border-radius: 4px;
+  background-color: #aedefa;
+  color: #b527ee;
+  font-family: 'Fuente';
+  cursor: pointer;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.labelcreate {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-family: "Fuente";
+  color: #b527ee;
+  text-align: center;
+}
+
+.inputcont {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra los elementos horizontalmente */
+  margin-bottom: 5px;
+}
+
+
+.inputcreate {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #b527ee;
+  border-radius: 4px;
+  width: 30%;
+  color: #b527ee;
+}
+
+.error {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+
+.selcreate {
+  padding: 8px;
+  font-size: 14px;
+  border: 1px solid #b527ee;
+  border-radius: 4px;
+  width: 32%;
+  margin-bottom: 10px;
+  color: #b527ee;
+  align-items: center;
+}
+
+
+button[type="submit"] {
+  padding: 8px 16px;
+  font-size: 18px;
+  border: none;
+  border-radius: 4px;
+  background-color: #aedefa;
+  color: #b527ee;
+  font-family: 'Fuente';
+  cursor: pointer;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+button[type="submit"]:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+
+div p {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+div button {
+  padding: 4px 8px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: #aedefa;
+  color: #b527ee;
+  font-family: 'Fuente';
+  cursor: pointer;
+}
+h1 {
+  margin-bottom: 10px;
+  font-family: 'MiFuente';
+  color: #b527ee;
+}

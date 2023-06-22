@@ -1,0 +1,72 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #aedefa;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+@font-face {
+  font-family: 'LFuente';
+  src: url('../../Letter/InstrumentSerif-Regular.ttf');
+}
+
+.linknavli {
+  margin: 0;
+  padding: 0; 
+  display: inline-block;
+  margin-right: 20px;
+  font-family: 'LFuente';
+  font-size: 18px;
+  color: #b527ee;
+  font-weight: bold;
+}
+
+.linknavli a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navinput {
+  padding: 5px;
+  margin-right: 10px;
+  border: 2px solid #b527ee;
+  border-radius: 5px;
+  outline: none;
+}
+
+.navinput:focus {
+  color:#b527ee; 
+}
+
+.navinput::placeholder {
+  color: #b527ee; 
+}
+
+.buttonnav {
+  flex-direction: column;
+  align-items: center;
+  padding: 5px 10px;
+  background-color:#aedefa;
+  color:#b527ee;
+  border: none;
+  cursor: pointer;
+  font-family: 'LFuente';
+  font-weight: bold;
+}
+
+.buttonnav img {
+  width: 30px;
+  height: 30x;
+  margin-right: 5px;
+ 
+}
+
+.buttonnav span {
+  font-size: 18px;
+  margin-top: -8px;
+  display: block;
+}
+

@@ -1,0 +1,34 @@
+.pagination {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .li {
+    margin: 5px;
+  }
+  
+  .buttonpagination {
+    font-weight: bold;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background-color: #fac68a;
+    color: #65a0f8;
+    cursor: pointer;
+    outline: none;
+    border: none;
+  }
+  
+  .buttonpagination:hover {
+    background-color: #d79aff;
+  }
+  

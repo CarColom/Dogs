@@ -1,0 +1,95 @@
+/* Estilos generales */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url('../../Img/fondo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  color: #e1b0f59c;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+}
+
+@font-face {
+  font-family: 'Fuente';
+  src: url('../../Letter/InstrumentSerif-Regular.ttf');
+}
+
+.filters {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #aedefa;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para cada opción de filtro */
+.filters div {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px; 
+}
+
+/* Estilos para los textos */
+.filters span {
+  font-size: 18px;
+  font-weight: bold;
+  color:  #b527ee;
+  margin-bottom: 5px;
+  font-family: 'Fuente';
+}
+
+
+
+/* Estilos para los selects */
+.filters select {
+  padding: 8px;
+  font-size: 18px;
+  border: 2px solid #b527ee;
+  border-radius: 4px;
+  background-color: #fff;
+  font-family: 'Fuente';
+  color: #b527ee;
+}
+
+.filters select:hover {
+  background-color: #f094fc8e;
+}
+
+/* Estilos para las opciones de los selects */
+.filters select option {
+  font-size: 18px;
+  color: #b527ee;
+  font-family: 'Fuente';
+  background-color: #aedefa;
+
+}
+
+/* Estilos adicionales para resaltar las opciones seleccionadas */
+.filters select option:checked {
+  background-color: #f094fc8e;
+  color: #333;
+}
+
+.filters select option:hover {
+  background-color: #f094fc8e;
+  color: #333;
+}
+
+.h1{
+  color: #f094fc8e;
+  font-family: "Mi Fuente";
+}

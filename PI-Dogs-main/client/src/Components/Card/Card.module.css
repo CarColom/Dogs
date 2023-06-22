@@ -1,0 +1,109 @@
+
+.card {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border-radius: 50%;
+    transform-style: preserve-3d;
+    transition: transform 1s;
+  }
+  
+  .card:hover {
+    transform: rotateY(180deg);
+  }
+  
+  .front,
+  .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+  }
+  
+  
+  
+  .front img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 30%;
+  }
+  
+  .back {
+    background-color: rgba(205, 141, 241, 0.514);
+    border-radius: 50%;
+    transform: rotateY(180deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+    
+  @font-face {
+    font-family: 'MiFuente';
+    src: url('../../Letter/Sigmar-Regular.ttf');
+  }
+  
+  .name {
+    font-size: 25px;
+    margin: 10px 0;
+    color: #b527ee;
+    font-family: 'MiFuente';
+    
+  }
+  
+  
+  
+  .img img {
+    width: 250px; 
+    height: 200px; 
+    object-fit: cover;
+    border-radius: 30%;
+  }
+  
+  @font-face {
+    font-family: 'LaFuente';
+    src: url('../../Letter/InstrumentSerif-Regular.ttf');
+  }
+  
+  .temperament {
+    font-size: 18px;
+    margin: 10px 0;
+    color: #000;
+    font-family: 'LaFuente';
+  }
+  
+  .temperament span {
+    display: inline-block;
+    margin-right: 5px;
+  }
+  
+  .temperament a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .weight {
+    margin: 10px 0;
+    color:#000;
+    font-family: 'LaFuente';
+    font-size: 18px;
+  }
+  
+  .weight span {
+    display: block;
+  }
+  
+  
+  .link a {
+    color: #b527ee;
+    text-decoration: none;
+    font-family: 'LaFuente';
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .link a:hover {
+    text-decoration: underline;
+  }

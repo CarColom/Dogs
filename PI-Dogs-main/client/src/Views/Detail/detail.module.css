@@ -1,0 +1,45 @@
+.containerdetail {
+  max-width: 350px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.buttondetail {
+  background-color: #aedefa;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Fuente';
+  color: #b527ee;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.detail {
+  display: outside;
+  flex-direction: column;
+  align-items: center;
+  background-color:#aedefa;
+  border-radius: 5px;
+  font-family: 'Fuente';
+  color: #b527ee;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-family: 'MiFuente';
+  color: #b527ee;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  
+}
+
+
