@@ -9,6 +9,8 @@ Explorar Dogs: Encuentra el Dog que te interesa en nuestra extensa lista de Dogs
 Detalles del Dog: Al hacer clic en un Dog específico, serás redirigido a una página de detalles que proporciona información más completa sobre el Dog seleccionado. Aquí encontrarás detalles como su número en la Pokédex, habilidades, estadísticas de combate y evoluciones.
 Filtros y ordenamientos: Utiliza nuestros filtros para refinar tu búsqueda por tipo, generación o características específicas. Además, podrás ordenar los Dogs alfabéticamente.
 Crear un nuevo Dog: Si conoces un Dog que no se encuentra en nuestra lista, puedes agregarlo mediante nuestro formulario de creación de Dogs. Proporciona información relevante sobre el Dog, como su nombre, tipo y una descripción detallada.
+![image](https://github.com/CarColom/Dogs/assets/121466242/8b1f87be-bb18-43e1-925e-f82c128a1b51)
+
 Tecnologías utilizadas
 La página de Dogs se ha desarrollado utilizando las siguientes tecnologías:
 
