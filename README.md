@@ -6,9 +6,9 @@
 
 Características principales
 Explorar Dogs: Encuentra el Dog que te interesa en nuestra extensa lista de Dogs. Cada Dog se presenta con su imagen, nombre y tipo para darte una idea general.
-Detalles del Dog: Al hacer clic en un Dog específico, serás redirigido a una página de detalles que proporciona información más completa sobre el Dog seleccionado. Aquí encontrarás detalles como su número en la Pokédex, habilidades, estadísticas de combate y evoluciones.
-Filtros y ordenamientos: Utiliza nuestros filtros para refinar tu búsqueda por tipo, generación o características específicas. Además, podrás ordenar los Dogs alfabéticamente.
-Crear un nuevo Dog: Si conoces un Dog que no se encuentra en nuestra lista, puedes agregarlo mediante nuestro formulario de creación de Dogs. Proporciona información relevante sobre el Dog, como su nombre, tipo y una descripción detallada.
+Detalles del Dog: Al hacer clic en un Dog específico, serás redirigido a una página de detalles que proporciona información más completa sobre el Dog seleccionado.
+Filtros y ordenamientos: Utiliza nuestros filtros para refinar tu búsqueda por raza, generación o características específicas. Además, podrás ordenar los Dogs alfabéticamente.
+Crear un nuevo Dog: Si conoces un Dog que no se encuentra en nuestra lista, puedes agregarlo mediante nuestro formulario de creación de Dogs. Proporciona información relevante sobre el Dog, como su nombre, raza y una descripción detallada.
 ![image](https://github.com/CarColom/Dogs/assets/121466242/8b1f87be-bb18-43e1-925e-f82c128a1b51)
 ![image](https://github.com/CarColom/Dogs/assets/121466242/06d3d5f5-ae0a-4941-9b81-ad8b5590d33d)
 ![image](https://github.com/CarColom/Dogs/assets/121466242/96188827-137f-47b2-9996-fd1c8775cdc7)
@@ -23,6 +23,8 @@ Framework de JavaScript ( React-Redux): Implementación del enrutamiento, compon
 Base de datos (PostgreSQL): Almacenamiento de información sobre los Dogs.
 Backend ( Node.js, express ): Lógica de negocio y manejo de las solicitudes del usuario.
 APIs externas: Integración con servicios externos para obtener información adicional sobre los Dogs.
+
+
 Instalación y ejecución local
 Clona este repositorio,
 Navega al directorio del proyecto: cd tuproyecto
