@@ -11,6 +11,7 @@ Filtros y ordenamientos: Utiliza nuestros filtros para refinar tu búsqueda por 
 Crear un nuevo Dog: Si conoces un Dog que no se encuentra en nuestra lista, puedes agregarlo mediante nuestro formulario de creación de Dogs. Proporciona información relevante sobre el Dog, como su nombre, tipo y una descripción detallada.
 ![image](https://github.com/CarColom/Dogs/assets/121466242/8b1f87be-bb18-43e1-925e-f82c128a1b51)
 ![image](https://github.com/CarColom/Dogs/assets/121466242/06d3d5f5-ae0a-4941-9b81-ad8b5590d33d)
+![image](https://github.com/CarColom/Dogs/assets/121466242/96188827-137f-47b2-9996-fd1c8775cdc7)
 
 Tecnologías utilizadas
 La página de Dogs se ha desarrollado utilizando las siguientes tecnologías:
@@ -29,7 +30,3 @@ Instala las dependencias: npm install (o utiliza el gestor de paquetes correspon
 Inicia el servidor local: npm start (o el comando necesario para iniciar el servidor).
 Asegúrate de tener todas las dependencias necesarias instaladas y de configurar adecuadamente cualquier base de datos u otros servicios externos requeridos para el funcionamiento de la página.
 
-[Landing](./PI-Dogs-main/client/src/Img/Pi%20dogs%20inicio.png)
-[Home](./PI-Dogs-main/client/src/Img/Pi%20dogs%20home..png)
-[Detail](./PI-Dogs-main/client/src/Img/Pi%20dogs%20detail.png)
-[Create](./PI-Dogs-main/client/src/Img/Pi%20dogs%20create.png)
