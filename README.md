@@ -10,6 +10,7 @@ Detalles del Dog: Al hacer clic en un Dog específico, serás redirigido a una p
 Filtros y ordenamientos: Utiliza nuestros filtros para refinar tu búsqueda por tipo, generación o características específicas. Además, podrás ordenar los Dogs alfabéticamente.
 Crear un nuevo Dog: Si conoces un Dog que no se encuentra en nuestra lista, puedes agregarlo mediante nuestro formulario de creación de Dogs. Proporciona información relevante sobre el Dog, como su nombre, tipo y una descripción detallada.
 ![image](https://github.com/CarColom/Dogs/assets/121466242/8b1f87be-bb18-43e1-925e-f82c128a1b51)
+![image](https://github.com/CarColom/Dogs/assets/121466242/06d3d5f5-ae0a-4941-9b81-ad8b5590d33d)
 
 Tecnologías utilizadas
 La página de Dogs se ha desarrollado utilizando las siguientes tecnologías:
