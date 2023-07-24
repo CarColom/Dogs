@@ -1,5 +1,8 @@
 # Dogs
 ¡Bienvenido a la página de Dogs! Aquí podrás explorar una amplia variedad de Dogs y obtener información detallada sobre cada uno de ellos. También encontrarás funciones para filtrar y ordenar los Dogs, así como la posibilidad de agregar un nuevo Dog a nuestra colección.
+![image](https://github.com/CarColom/Dogs/assets/121466242/cbdfbeb4-b39b-401e-b65e-05203dbc249a)
+
+
 
 Características principales
 Explorar Dogs: Encuentra el Dog que te interesa en nuestra extensa lista de Dogs. Cada Dog se presenta con su imagen, nombre y tipo para darte una idea general.
